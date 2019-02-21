@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeamworkProject</string>
+    <string name="project_load_error">Sorry, couldn\'t load your project!</string>
+    <string name="fragment_projects_list_title">Active projects</string>
+</resources>
